@@ -1,6 +1,6 @@
 //config.js
 module.exports={
-    "facebook_key"      :     "1070381403759171", //Điền App ID của bạn vào đây
-    "facebook_secret"   :     "b9352a006f9477a355a91685e4d84078", //Điền App Secret ở đây
+    "facebook_key"      :     "602906270781760",
+    "facebook_secret"   :     "eb15a0784e3dfb90bc8ec3cffbf79df3",
     "callback_url"      :     "https://nodejs-projectt.herokuapp.com/auth/facebook/callback"
   }
